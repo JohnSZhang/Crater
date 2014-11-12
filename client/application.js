@@ -8,4 +8,9 @@ if (Meteor.isClient) {
       return Posts.find();
     }
   });
+  Template.body.helpers({
+    userEmail: function () {
+      return Meteor.user().emails[0].address
+    }
+  })
 }

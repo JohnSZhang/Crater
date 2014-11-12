@@ -3,6 +3,10 @@
 </head>
 <body>
   <h1>JOURNAL</h1>
+  {{#if currentUser}}
+    <p> hello {{ userEmail}} </p>
+  {{/if}}
+  {{> loginButtons}}
   <h2>The princess diaries 2</h2>
   <div id="sidebar">
     {{>posts}}

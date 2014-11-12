@@ -8,6 +8,7 @@ autopublish
 insecure
 sanjo:jasmine
 velocity:html-reporter@0.3.0-rc.3
-accounts-base
 iron:router
-
+accounts-ui
+accounts-password
+accounts-facebook
