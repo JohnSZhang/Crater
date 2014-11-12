@@ -7008,7 +7008,7 @@ var packageMetadata = {
                 },
                 "version": {
                   "type": "constant",
-                  "value": "c9f1f0f6a551bf71cbeb22058f909897c8761d70"
+                  "value": "44dba95ba536da697678012b579787a3ae44ca94"
                 },
                 "PUBLIC_SETTINGS": {
                   "type": "undefined"
@@ -7243,7 +7243,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/underscore.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/underscore.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7260,7 +7260,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
                 }
               }
             },
@@ -7269,7 +7269,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/meteor.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/meteor.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7286,7 +7286,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
                 }
               }
             },
@@ -7295,7 +7295,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/json.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/json.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7312,7 +7312,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/json.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/json.js.map"
                 }
               }
             },
@@ -7321,7 +7321,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/base64.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/base64.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7338,7 +7338,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/base64.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/base64.js.map"
                 }
               }
             },
@@ -7347,7 +7347,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/ejson.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/ejson.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7364,7 +7364,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
                 }
               }
             },
@@ -7373,7 +7373,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/logging.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/logging.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7390,7 +7390,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/logging.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/logging.js.map"
                 }
               }
             },
@@ -7399,7 +7399,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/reload.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/reload.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7416,7 +7416,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/reload.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/reload.js.map"
                 }
               }
             },
@@ -7425,7 +7425,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/tracker.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/tracker.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7442,7 +7442,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
                 }
               }
             },
@@ -7451,7 +7451,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/random.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/random.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7468,7 +7468,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/random.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/random.js.map"
                 }
               }
             },
@@ -7477,7 +7477,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/retry.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/retry.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7494,7 +7494,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/retry.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/retry.js.map"
                 }
               }
             },
@@ -7503,7 +7503,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/check.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/check.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7520,7 +7520,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/check.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/check.js.map"
                 }
               }
             },
@@ -7529,7 +7529,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/id-map.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/id-map.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7546,7 +7546,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
                 }
               }
             },
@@ -7555,7 +7555,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7572,7 +7572,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
                 }
               }
             },
@@ -7581,7 +7581,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7598,7 +7598,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
                 }
               }
             },
@@ -7607,7 +7607,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/minimongo.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/minimongo.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7624,7 +7624,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
                 }
               }
             },
@@ -7633,7 +7633,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/ddp.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/ddp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7650,7 +7650,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
                 }
               }
             },
@@ -7659,7 +7659,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7676,7 +7676,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
                 }
               }
             },
@@ -7685,7 +7685,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7702,7 +7702,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
                 }
               }
             },
@@ -7711,7 +7711,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/insecure.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/insecure.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7728,7 +7728,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/insecure.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/insecure.js.map"
                 }
               }
             },
@@ -7737,7 +7737,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/mongo.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/mongo.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7754,7 +7754,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
                 }
               }
             },
@@ -7763,7 +7763,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7780,7 +7780,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
                 }
               }
             },
@@ -7789,7 +7789,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7806,7 +7806,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
                 }
               }
             },
@@ -7815,7 +7815,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/autopublish.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/autopublish.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7832,7 +7832,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/autopublish.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/autopublish.js.map"
                 }
               }
             },
@@ -7841,7 +7841,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7858,7 +7858,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
                 }
               }
             },
@@ -7867,7 +7867,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/url.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/url.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7884,7 +7884,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/url.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/url.js.map"
                 }
               }
             },
@@ -7893,7 +7893,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/http.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/http.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7910,7 +7910,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/http.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/http.js.map"
                 }
               }
             },
@@ -7919,7 +7919,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7936,7 +7936,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
                 }
               }
             },
@@ -7945,7 +7945,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/jquery.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/jquery.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7962,7 +7962,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
                 }
               }
             },
@@ -7971,7 +7971,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/deps.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/deps.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7988,7 +7988,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/deps.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/deps.js.map"
                 }
               }
             },
@@ -7997,7 +7997,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/htmljs.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/htmljs.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8014,7 +8014,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
                 }
               }
             },
@@ -8023,7 +8023,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8040,7 +8040,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
                 }
               }
             },
@@ -8049,7 +8049,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8066,7 +8066,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
                 }
               }
             },
@@ -8075,7 +8075,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/blaze.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/blaze.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8092,7 +8092,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
                 }
               }
             },
@@ -8101,7 +8101,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/templating.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/templating.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8118,7 +8118,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/templating.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/templating.js.map"
                 }
               }
             },
@@ -8127,7 +8127,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/amplify.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/amplify.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8144,7 +8144,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
                 }
               }
             },
@@ -8153,7 +8153,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/less.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/less.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8170,7 +8170,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/less.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/less.js.map"
                 }
               }
             },
@@ -8179,7 +8179,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8196,7 +8196,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
                 }
               }
             },
@@ -8205,7 +8205,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/localstorage.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/localstorage.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8222,7 +8222,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
                 }
               }
             },
@@ -8231,7 +8231,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8248,111 +8248,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
-                }
-              }
-            },
-            "/packages/webapp.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/webapp.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/e1be090051b82f046484dccc2de7d747e50c7328.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/e1be090051b82f046484dccc2de7d747e50c7328.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
-                }
-              }
-            },
-            "/packages/reactive-dict.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
-                }
-              }
-            },
-            "/packages/session.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/session.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/session.js.map"
-                }
-              }
-            },
-            "/packages/livedata.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/livedata.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
                 }
               }
             },
@@ -8361,7 +8257,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/ui.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/ui.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8378,7 +8274,319 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/ui.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/ui.js.map"
+                }
+              }
+            },
+            "/packages/iron_core.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_core.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_core.js.map"
+                }
+              }
+            },
+            "/packages/iron_dynamic-template.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/4d8240a576804301368600b388b97065770c2964.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/4d8240a576804301368600b388b97065770c2964.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js.map"
+                }
+              }
+            },
+            "/packages/iron_layout.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_layout.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_layout.js.map"
+                }
+              }
+            },
+            "/packages/iron_url.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_url.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/3a21b7348e189346a5f73bbe6220cc5257b9846e.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/3a21b7348e189346a5f73bbe6220cc5257b9846e.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_url.js.map"
+                }
+              }
+            },
+            "/packages/iron_middleware-stack.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/87fc6153735b0c669013d562b796bbd57c993d79.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/87fc6153735b0c669013d562b796bbd57c993d79.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js.map"
+                }
+              }
+            },
+            "/packages/iron_location.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_location.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/b56386f5e8c3b7b5f1bb101fbc8aaab9aff9ce25.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/b56386f5e8c3b7b5f1bb101fbc8aaab9aff9ce25.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_location.js.map"
+                }
+              }
+            },
+            "/packages/reactive-dict.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
+                }
+              }
+            },
+            "/packages/iron_controller.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_controller.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/c4a074a0f421ce052a59282e7eae64f7049061cb.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/c4a074a0f421ce052a59282e7eae64f7049061cb.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_controller.js.map"
+                }
+              }
+            },
+            "/packages/iron_router.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_router.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/0151d2075090eb70fafb186dca64a57435104aa9.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/0151d2075090eb70fafb186dca64a57435104aa9.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/iron_router.js.map"
+                }
+              }
+            },
+            "/packages/webapp.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/webapp.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/e1be090051b82f046484dccc2de7d747e50c7328.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/e1be090051b82f046484dccc2de7d747e50c7328.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
+                }
+              }
+            },
+            "/packages/session.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/session.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/session.js.map"
+                }
+              }
+            },
+            "/packages/livedata.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/livedata.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
                 }
               }
             },
@@ -8387,7 +8595,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/spacebars.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/spacebars.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8404,7 +8612,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
                 }
               }
             },
@@ -8413,7 +8621,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8430,7 +8638,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
                 }
               }
             },
@@ -8439,7 +8647,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/global-imports.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/global-imports.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8455,7 +8663,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/app/client/template.index.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/app/client/template.index.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8471,7 +8679,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/app/client/lib/environment.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/app/client/lib/environment.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8487,7 +8695,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/app/lib/collections/posts.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/app/lib/collections/posts.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8503,7 +8711,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/app/lib/environment.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/app/lib/environment.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8519,7 +8727,23 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/app/lib/methods.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/app/lib/methods.js"
+                },
+                "sourceMapUrl": {
+                  "type": "undefined"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/lib/router.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/app/lib/router.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8535,7 +8759,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/app/client/application.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/app/client/application.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8551,7 +8775,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/app/client/index.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/app/client/index.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8567,7 +8791,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8584,20 +8808,20 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
                 }
               }
             },
-            "/dedbf693fbd1c0ee472bc9fbc62127d683a977e6.css": {
+            "/ff6b79128d40610f22f0793e2c1b977fe31f8582.css": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/dedbf693fbd1c0ee472bc9fbc62127d683a977e6.css"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/ff6b79128d40610f22f0793e2c1b977fe31f8582.css"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/dedbf693fbd1c0ee472bc9fbc62127d683a977e6.map"
+                  "value": "/ff6b79128d40610f22f0793e2c1b977fe31f8582.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8605,12 +8829,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/dedbf693fbd1c0ee472bc9fbc62127d683a977e6.map": {
+            "/ff6b79128d40610f22f0793e2c1b977fe31f8582.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/dedbf693fbd1c0ee472bc9fbc62127d683a977e6.css.map"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/ff6b79128d40610f22f0793e2c1b977fe31f8582.css.map"
                 }
               }
             },
@@ -8619,7 +8843,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8635,7 +8859,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8651,7 +8875,23 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/BakerStreetBakery/Documents/projects/crater/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
+                },
+                "sourceMapUrl": {
+                  "type": "undefined"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "asset"
+                }
+              }
+            },
+            "/images/bg.jpg": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/appacademy/Desktop/Crater/.meteor/local/build/programs/web.browser/app/images/bg.jpg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -8667,7 +8907,7 @@ var packageMetadata = {
               "members": {
                 "content": {
                   "type": "constant",
-                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?61916b1060b33931a21f104fbffb67c2f3d493c5\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/61916b1060b33931a21f104fbffb67c2f3d493c5.map\",\"size\":108989,\"hash\":\"61916b1060b33931a21f104fbffb67c2f3d493c5\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map\",\"size\":81471,\"hash\":\"71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map\",\"size\":25926,\"hash\":\"da8974b7231dd8c0caccb5f322dcf97329d486d1\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?192a05cc46b867dadbe8bf90dd961f6f8fd1574f\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/192a05cc46b867dadbe8bf90dd961f6f8fd1574f.map\",\"size\":66854,\"hash\":\"192a05cc46b867dadbe8bf90dd961f6f8fd1574f\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?803a2be518a0c6c3949e45cf65c4ad627a3d603a\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/803a2be518a0c6c3949e45cf65c4ad627a3d603a.map\",\"size\":35207,\"hash\":\"803a2be518a0c6c3949e45cf65c4ad627a3d603a\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?9adf0102ce60b3df01914155826e1661f636e91d\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/9adf0102ce60b3df01914155826e1661f636e91d.map\",\"size\":455764,\"hash\":\"9adf0102ce60b3df01914155826e1661f636e91d\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2.map\",\"size\":616556,\"hash\":\"1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/insecure.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/insecure.js?3dc9d4a2dad55999b5b15a447d57f3d5fb66b290\",\"sourceMap\":\"packages/insecure.js.map\",\"sourceMapUrl\":\"/packages/3dc9d4a2dad55999b5b15a447d57f3d5fb66b290.map\",\"size\":1290,\"hash\":\"3dc9d4a2dad55999b5b15a447d57f3d5fb66b290\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?9bc2c5a8b2796fab86b51660ca643e5a49a30c84\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/9bc2c5a8b2796fab86b51660ca643e5a49a30c84.map\",\"size\":146178,\"hash\":\"9bc2c5a8b2796fab86b51660ca643e5a49a30c84\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?c823646e93561d86e6bcb3cbd2457a8540e519c1\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/c823646e93561d86e6bcb3cbd2457a8540e519c1.map\",\"size\":17152,\"hash\":\"c823646e93561d86e6bcb3cbd2457a8540e519c1\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/autopublish.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autopublish.js?c3059a78bb200b171099fc4fa1a9345101790ddb\",\"sourceMap\":\"packages/autopublish.js.map\",\"sourceMapUrl\":\"/packages/c3059a78bb200b171099fc4fa1a9345101790ddb.map\",\"size\":1293,\"hash\":\"c3059a78bb200b171099fc4fa1a9345101790ddb\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?d2cb6a0cda9e8dc31cad8d92058270b5762eda86\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/d2cb6a0cda9e8dc31cad8d92058270b5762eda86.map\",\"size\":487503,\"hash\":\"d2cb6a0cda9e8dc31cad8d92058270b5762eda86\"},{\"path\":\"packages/url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/url.js?2312d739008b2ffa52f13c77c5d6fc59c9e17d56\",\"sourceMap\":\"packages/url.js.map\",\"sourceMapUrl\":\"/packages/2312d739008b2ffa52f13c77c5d6fc59c9e17d56.map\",\"size\":6642,\"hash\":\"2312d739008b2ffa52f13c77c5d6fc59c9e17d56\"},{\"path\":\"packages/http.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/http.js?9c5d152169ba9a5a57b6b8ec28e64bbd0d308077\",\"sourceMap\":\"packages/http.js.map\",\"sourceMapUrl\":\"/packages/9c5d152169ba9a5a57b6b8ec28e64bbd0d308077.map\",\"size\":37036,\"hash\":\"9c5d152169ba9a5a57b6b8ec28e64bbd0d308077\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?f443c4491180e42a1a84d28d73a0be55fc0bb52f\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/f443c4491180e42a1a84d28d73a0be55fc0bb52f.map\",\"size\":8290,\"hash\":\"f443c4491180e42a1a84d28d73a0be55fc0bb52f\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?265926494aaa3929cd2e30da265211c5929f37a4\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/265926494aaa3929cd2e30da265211c5929f37a4.map\",\"size\":1295407,\"hash\":\"265926494aaa3929cd2e30da265211c5929f37a4\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?539b5fc23cf5e63bc8e324543a1026b138316a8c\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/539b5fc23cf5e63bc8e324543a1026b138316a8c.map\",\"size\":110444,\"hash\":\"539b5fc23cf5e63bc8e324543a1026b138316a8c\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map\",\"size\":13963,\"hash\":\"20335b7b37165980ddd9f23943b2e5b00aae1cc2\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?77c0809654ee3a10dcd5a4f961fb1437e7957d33\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/77c0809654ee3a10dcd5a4f961fb1437e7957d33.map\",\"size\":385864,\"hash\":\"77c0809654ee3a10dcd5a4f961fb1437e7957d33\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?599ba307216da826d8b335332ebcc9a497a369a0\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/599ba307216da826d8b335332ebcc9a497a369a0.map\",\"size\":11910,\"hash\":\"599ba307216da826d8b335332ebcc9a497a369a0\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?cf94ce8ed8b0cdf6e387fa55b112e0e005882a1d\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/cf94ce8ed8b0cdf6e387fa55b112e0e005882a1d.map\",\"size\":85561,\"hash\":\"cf94ce8ed8b0cdf6e387fa55b112e0e005882a1d\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?6ed32803c332f93f65e36a195f42e58a62ed028d\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/6ed32803c332f93f65e36a195f42e58a62ed028d.map\",\"size\":108969,\"hash\":\"6ed32803c332f93f65e36a195f42e58a62ed028d\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map\",\"size\":19802,\"hash\":\"6b25309b1f0dcf775b44984324878d6f8ad1abc2\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?e436deefadc999c21b6fd16e8e1ecce55c3c3a55\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map\",\"size\":6497,\"hash\":\"e436deefadc999c21b6fd16e8e1ecce55c3c3a55\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?3c496d2950151d744a8574297b46d2763a123bdf\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/3c496d2950151d744a8574297b46d2763a123bdf.map\",\"size\":42134,\"hash\":\"3c496d2950151d744a8574297b46d2763a123bdf\"},{\"path\":\"packages/launch-screen.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/launch-screen.js?13e1092ebecdb7208762500188f1dc2dea5603e9\",\"sourceMap\":\"packages/launch-screen.js.map\",\"sourceMapUrl\":\"/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map\",\"size\":9707,\"hash\":\"13e1092ebecdb7208762500188f1dc2dea5603e9\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?168504e32eb7b1cf14de27e36ca4cc8ce35428a5\",\"size\":764,\"hash\":\"168504e32eb7b1cf14de27e36ca4cc8ce35428a5\"},{\"path\":\"app/client/template.index.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/template.index.js?0dd3d0dd182a89e5b5c11afb35d6286d218d3369\",\"size\":710,\"hash\":\"0dd3d0dd182a89e5b5c11afb35d6286d218d3369\"},{\"path\":\"app/client/lib/environment.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/lib/environment.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\",\"size\":19,\"hash\":\"2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\"},{\"path\":\"app/lib/collections/posts.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/collections/posts.js?51e0409f8f83cb5b29d07d471f8419bc1119ddf6\",\"size\":466,\"hash\":\"51e0409f8f83cb5b29d07d471f8419bc1119ddf6\"},{\"path\":\"app/lib/environment.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/environment.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\",\"size\":19,\"hash\":\"2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\"},{\"path\":\"app/lib/methods.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/methods.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\",\"size\":19,\"hash\":\"2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\"},{\"path\":\"app/client/application.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/application.js?35120dbce5e7705d7d536074db068cff19b4c3fb\",\"size\":232,\"hash\":\"35120dbce5e7705d7d536074db068cff19b4c3fb\"},{\"path\":\"app/client/index.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/index.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\",\"size\":19,\"hash\":\"2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"dedbf693fbd1c0ee472bc9fbc62127d683a977e6.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/dedbf693fbd1c0ee472bc9fbc62127d683a977e6.css\",\"sourceMap\":\"dedbf693fbd1c0ee472bc9fbc62127d683a977e6.css.map\",\"sourceMapUrl\":\"/dedbf693fbd1c0ee472bc9fbc62127d683a977e6.map\",\"size\":12929,\"hash\":\"dedbf693fbd1c0ee472bc9fbc62127d683a977e6\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_logo.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_logo.svg\",\"size\":3723,\"hash\":\"bd19ecdc8eb1084f7bb562c298e4ce41f9cdc698\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_cog.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_cog.svg\",\"size\":987,\"hash\":\"6e74acfffcbd2bafdc8a95d9db7762ece07b1e81\"},{\"path\":\"packages/velocity_html-reporter/lib/icon-time.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/icon-time.png\",\"size\":2834,\"hash\":\"868f492022a4dab0f1522de6aae0773531bc6e85\"},{\"path\":\"head.html\",\"where\":\"internal\",\"type\":\"head\",\"hash\":\"9f5ebff8833439eb9791a04cd8c5aa6f0ec22f04\"}],\"version\":\"c9f1f0f6a551bf71cbeb22058f909897c8761d70\"}"
+                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?61916b1060b33931a21f104fbffb67c2f3d493c5\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/61916b1060b33931a21f104fbffb67c2f3d493c5.map\",\"size\":108989,\"hash\":\"61916b1060b33931a21f104fbffb67c2f3d493c5\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map\",\"size\":81471,\"hash\":\"71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map\",\"size\":25926,\"hash\":\"da8974b7231dd8c0caccb5f322dcf97329d486d1\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?192a05cc46b867dadbe8bf90dd961f6f8fd1574f\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/192a05cc46b867dadbe8bf90dd961f6f8fd1574f.map\",\"size\":66854,\"hash\":\"192a05cc46b867dadbe8bf90dd961f6f8fd1574f\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?803a2be518a0c6c3949e45cf65c4ad627a3d603a\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/803a2be518a0c6c3949e45cf65c4ad627a3d603a.map\",\"size\":35207,\"hash\":\"803a2be518a0c6c3949e45cf65c4ad627a3d603a\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?9adf0102ce60b3df01914155826e1661f636e91d\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/9adf0102ce60b3df01914155826e1661f636e91d.map\",\"size\":455764,\"hash\":\"9adf0102ce60b3df01914155826e1661f636e91d\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2.map\",\"size\":616556,\"hash\":\"1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/insecure.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/insecure.js?3dc9d4a2dad55999b5b15a447d57f3d5fb66b290\",\"sourceMap\":\"packages/insecure.js.map\",\"sourceMapUrl\":\"/packages/3dc9d4a2dad55999b5b15a447d57f3d5fb66b290.map\",\"size\":1290,\"hash\":\"3dc9d4a2dad55999b5b15a447d57f3d5fb66b290\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?9bc2c5a8b2796fab86b51660ca643e5a49a30c84\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/9bc2c5a8b2796fab86b51660ca643e5a49a30c84.map\",\"size\":146178,\"hash\":\"9bc2c5a8b2796fab86b51660ca643e5a49a30c84\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?c823646e93561d86e6bcb3cbd2457a8540e519c1\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/c823646e93561d86e6bcb3cbd2457a8540e519c1.map\",\"size\":17152,\"hash\":\"c823646e93561d86e6bcb3cbd2457a8540e519c1\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/autopublish.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autopublish.js?c3059a78bb200b171099fc4fa1a9345101790ddb\",\"sourceMap\":\"packages/autopublish.js.map\",\"sourceMapUrl\":\"/packages/c3059a78bb200b171099fc4fa1a9345101790ddb.map\",\"size\":1293,\"hash\":\"c3059a78bb200b171099fc4fa1a9345101790ddb\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?d2cb6a0cda9e8dc31cad8d92058270b5762eda86\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/d2cb6a0cda9e8dc31cad8d92058270b5762eda86.map\",\"size\":487503,\"hash\":\"d2cb6a0cda9e8dc31cad8d92058270b5762eda86\"},{\"path\":\"packages/url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/url.js?2312d739008b2ffa52f13c77c5d6fc59c9e17d56\",\"sourceMap\":\"packages/url.js.map\",\"sourceMapUrl\":\"/packages/2312d739008b2ffa52f13c77c5d6fc59c9e17d56.map\",\"size\":6642,\"hash\":\"2312d739008b2ffa52f13c77c5d6fc59c9e17d56\"},{\"path\":\"packages/http.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/http.js?9c5d152169ba9a5a57b6b8ec28e64bbd0d308077\",\"sourceMap\":\"packages/http.js.map\",\"sourceMapUrl\":\"/packages/9c5d152169ba9a5a57b6b8ec28e64bbd0d308077.map\",\"size\":37036,\"hash\":\"9c5d152169ba9a5a57b6b8ec28e64bbd0d308077\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?f443c4491180e42a1a84d28d73a0be55fc0bb52f\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/f443c4491180e42a1a84d28d73a0be55fc0bb52f.map\",\"size\":8290,\"hash\":\"f443c4491180e42a1a84d28d73a0be55fc0bb52f\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?265926494aaa3929cd2e30da265211c5929f37a4\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/265926494aaa3929cd2e30da265211c5929f37a4.map\",\"size\":1295407,\"hash\":\"265926494aaa3929cd2e30da265211c5929f37a4\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?539b5fc23cf5e63bc8e324543a1026b138316a8c\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/539b5fc23cf5e63bc8e324543a1026b138316a8c.map\",\"size\":110444,\"hash\":\"539b5fc23cf5e63bc8e324543a1026b138316a8c\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map\",\"size\":13963,\"hash\":\"20335b7b37165980ddd9f23943b2e5b00aae1cc2\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?77c0809654ee3a10dcd5a4f961fb1437e7957d33\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/77c0809654ee3a10dcd5a4f961fb1437e7957d33.map\",\"size\":385864,\"hash\":\"77c0809654ee3a10dcd5a4f961fb1437e7957d33\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?599ba307216da826d8b335332ebcc9a497a369a0\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/599ba307216da826d8b335332ebcc9a497a369a0.map\",\"size\":11910,\"hash\":\"599ba307216da826d8b335332ebcc9a497a369a0\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?cf94ce8ed8b0cdf6e387fa55b112e0e005882a1d\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/cf94ce8ed8b0cdf6e387fa55b112e0e005882a1d.map\",\"size\":85561,\"hash\":\"cf94ce8ed8b0cdf6e387fa55b112e0e005882a1d\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?6ed32803c332f93f65e36a195f42e58a62ed028d\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/6ed32803c332f93f65e36a195f42e58a62ed028d.map\",\"size\":108969,\"hash\":\"6ed32803c332f93f65e36a195f42e58a62ed028d\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/iron_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_core.js?d966a1f70c94792fd94c8a155bdbef9bec5e0047\",\"sourceMap\":\"packages/iron_core.js.map\",\"sourceMapUrl\":\"/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map\",\"size\":32915,\"hash\":\"d966a1f70c94792fd94c8a155bdbef9bec5e0047\"},{\"path\":\"packages/iron_dynamic-template.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_dynamic-template.js?4d8240a576804301368600b388b97065770c2964\",\"sourceMap\":\"packages/iron_dynamic-template.js.map\",\"sourceMapUrl\":\"/packages/4d8240a576804301368600b388b97065770c2964.map\",\"size\":85060,\"hash\":\"4d8240a576804301368600b388b97065770c2964\"},{\"path\":\"packages/iron_layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_layout.js?4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\",\"sourceMap\":\"packages/iron_layout.js.map\",\"sourceMapUrl\":\"/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map\",\"size\":62058,\"hash\":\"4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\"},{\"path\":\"packages/iron_url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_url.js?3a21b7348e189346a5f73bbe6220cc5257b9846e\",\"sourceMap\":\"packages/iron_url.js.map\",\"sourceMapUrl\":\"/packages/3a21b7348e189346a5f73bbe6220cc5257b9846e.map\",\"size\":65622,\"hash\":\"3a21b7348e189346a5f73bbe6220cc5257b9846e\"},{\"path\":\"packages/iron_middleware-stack.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_middleware-stack.js?87fc6153735b0c669013d562b796bbd57c993d79\",\"sourceMap\":\"packages/iron_middleware-stack.js.map\",\"sourceMapUrl\":\"/packages/87fc6153735b0c669013d562b796bbd57c993d79.map\",\"size\":46799,\"hash\":\"87fc6153735b0c669013d562b796bbd57c993d79\"},{\"path\":\"packages/iron_location.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_location.js?b56386f5e8c3b7b5f1bb101fbc8aaab9aff9ce25\",\"sourceMap\":\"packages/iron_location.js.map\",\"sourceMapUrl\":\"/packages/b56386f5e8c3b7b5f1bb101fbc8aaab9aff9ce25.map\",\"size\":51127,\"hash\":\"b56386f5e8c3b7b5f1bb101fbc8aaab9aff9ce25\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map\",\"size\":19802,\"hash\":\"6b25309b1f0dcf775b44984324878d6f8ad1abc2\"},{\"path\":\"packages/iron_controller.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_controller.js?c4a074a0f421ce052a59282e7eae64f7049061cb\",\"sourceMap\":\"packages/iron_controller.js.map\",\"sourceMapUrl\":\"/packages/c4a074a0f421ce052a59282e7eae64f7049061cb.map\",\"size\":41091,\"hash\":\"c4a074a0f421ce052a59282e7eae64f7049061cb\"},{\"path\":\"packages/iron_router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_router.js?0151d2075090eb70fafb186dca64a57435104aa9\",\"sourceMap\":\"packages/iron_router.js.map\",\"sourceMapUrl\":\"/packages/0151d2075090eb70fafb186dca64a57435104aa9.map\",\"size\":213813,\"hash\":\"0151d2075090eb70fafb186dca64a57435104aa9\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?e436deefadc999c21b6fd16e8e1ecce55c3c3a55\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map\",\"size\":6497,\"hash\":\"e436deefadc999c21b6fd16e8e1ecce55c3c3a55\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?3c496d2950151d744a8574297b46d2763a123bdf\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/3c496d2950151d744a8574297b46d2763a123bdf.map\",\"size\":42134,\"hash\":\"3c496d2950151d744a8574297b46d2763a123bdf\"},{\"path\":\"packages/launch-screen.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/launch-screen.js?13e1092ebecdb7208762500188f1dc2dea5603e9\",\"sourceMap\":\"packages/launch-screen.js.map\",\"sourceMapUrl\":\"/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map\",\"size\":9707,\"hash\":\"13e1092ebecdb7208762500188f1dc2dea5603e9\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?8c4cd1823b5da9be5fc332b3fb1091e501e497dc\",\"size\":896,\"hash\":\"8c4cd1823b5da9be5fc332b3fb1091e501e497dc\"},{\"path\":\"app/client/template.index.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/template.index.js?1fa52ed44f4415776c8c5dd656dc54ab20c58e43\",\"size\":1442,\"hash\":\"1fa52ed44f4415776c8c5dd656dc54ab20c58e43\"},{\"path\":\"app/client/lib/environment.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/lib/environment.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\",\"size\":19,\"hash\":\"2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\"},{\"path\":\"app/lib/collections/posts.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/collections/posts.js?51e0409f8f83cb5b29d07d471f8419bc1119ddf6\",\"size\":466,\"hash\":\"51e0409f8f83cb5b29d07d471f8419bc1119ddf6\"},{\"path\":\"app/lib/environment.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/environment.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\",\"size\":19,\"hash\":\"2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\"},{\"path\":\"app/lib/methods.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/methods.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\",\"size\":19,\"hash\":\"2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\"},{\"path\":\"app/lib/router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/router.js?1e1106b6420d90034635a49587d782402e0dac5a\",\"size\":240,\"hash\":\"1e1106b6420d90034635a49587d782402e0dac5a\"},{\"path\":\"app/client/application.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/application.js?dbe9bba06905aed6a538d1c2044fc128a4a78754\",\"size\":233,\"hash\":\"dbe9bba06905aed6a538d1c2044fc128a4a78754\"},{\"path\":\"app/client/index.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/index.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\",\"size\":19,\"hash\":\"2a3453bba5b8f7e5a39caf4f0fb6016f1b588104\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"ff6b79128d40610f22f0793e2c1b977fe31f8582.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/ff6b79128d40610f22f0793e2c1b977fe31f8582.css\",\"sourceMap\":\"ff6b79128d40610f22f0793e2c1b977fe31f8582.css.map\",\"sourceMapUrl\":\"/ff6b79128d40610f22f0793e2c1b977fe31f8582.map\",\"size\":14123,\"hash\":\"ff6b79128d40610f22f0793e2c1b977fe31f8582\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_logo.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_logo.svg\",\"size\":3723,\"hash\":\"bd19ecdc8eb1084f7bb562c298e4ce41f9cdc698\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_cog.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_cog.svg\",\"size\":987,\"hash\":\"6e74acfffcbd2bafdc8a95d9db7762ece07b1e81\"},{\"path\":\"packages/velocity_html-reporter/lib/icon-time.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/icon-time.png\",\"size\":2834,\"hash\":\"868f492022a4dab0f1522de6aae0773531bc6e85\"},{\"path\":\"app/images/bg.jpg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/bg.jpg\",\"size\":1059651,\"hash\":\"ecb377975b032020eec7bfa03f02f36f171fbc7f\"},{\"path\":\"head.html\",\"where\":\"internal\",\"type\":\"head\",\"hash\":\"9f5ebff8833439eb9791a04cd8c5aa6f0ec22f04\"}],\"version\":\"44dba95ba536da697678012b579787a3ae44ca94\"}"
                 },
                 "type": {
                   "type": "constant",
@@ -9292,11 +9532,11 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "4571cf147006f5b1ad166fdd2942178fdfe30d92"
+          "value": "adf88bad2570492c8845f7386e50e2f5de39dbe2"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
-          "value": "cd310e74e5eaf948f3251d7144b71d9c9ee85124"
+          "value": "36e92a331698bbb2dfff7e670a6ce064f085dd7e"
         },
         "autoupdateVersionCordova": {
           "type": "constant",
@@ -9701,6 +9941,215 @@ var packageMetadata = {
     },
     "AccountsTest": {
       "type": "undefined"
+    }
+  },
+  "iron:core": {},
+  "iron:dynamic-template": {},
+  "iron:layout": {},
+  "iron:url": {},
+  "iron:middleware-stack": {
+    "Handler": {
+      "type": "function",
+      "members": {
+        "prototype": {
+          "type": "object",
+          "members": {
+            "test": {
+              "type": "function"
+            },
+            "params": {
+              "type": "function"
+            },
+            "resolve": {
+              "type": "function"
+            },
+            "clone": {
+              "type": "function"
+            }
+          }
+        }
+      }
+    }
+  },
+  "iron:location": {},
+  "reactive-dict": {
+    "ReactiveDict": {
+      "type": "function",
+      "members": {
+        "prototype": {
+          "type": "object",
+          "members": {
+            "set": {
+              "type": "function"
+            },
+            "setDefault": {
+              "type": "function"
+            },
+            "get": {
+              "type": "function"
+            },
+            "equals": {
+              "type": "function"
+            }
+          }
+        }
+      }
+    }
+  },
+  "iron:controller": {},
+  "iron:router": {
+    "Router": {
+      "type": "function",
+      "members": {
+        "routes": {
+          "type": "array"
+        },
+        "options": {
+          "type": "object"
+        },
+        "init": {
+          "type": "function"
+        },
+        "configure": {
+          "type": "function"
+        },
+        "map": {
+          "type": "function"
+        },
+        "route": {
+          "type": "function"
+        },
+        "findFirstRoute": {
+          "type": "function"
+        },
+        "path": {
+          "type": "function"
+        },
+        "url": {
+          "type": "function"
+        },
+        "createController": {
+          "type": "function"
+        },
+        "setTemplateNameConverter": {
+          "type": "function"
+        },
+        "setControllerNameConverter": {
+          "type": "function"
+        },
+        "toTemplateName": {
+          "type": "function"
+        },
+        "toControllerName": {
+          "type": "function"
+        },
+        "addHook": {
+          "type": "function"
+        },
+        "lookupHook": {
+          "type": "function"
+        },
+        "getHooks": {
+          "type": "function"
+        },
+        "onRun": {
+          "type": "function"
+        },
+        "onRerun": {
+          "type": "function"
+        },
+        "onBeforeAction": {
+          "type": "function"
+        },
+        "onAfterAction": {
+          "type": "function"
+        },
+        "onStop": {
+          "type": "function"
+        },
+        "waitOn": {
+          "type": "function"
+        },
+        "load": {
+          "type": "function"
+        },
+        "before": {
+          "type": "function"
+        },
+        "after": {
+          "type": "function"
+        },
+        "unload": {
+          "type": "function"
+        },
+        "plugin": {
+          "type": "function"
+        },
+        "start": {
+          "type": "function"
+        },
+        "dispatch": {
+          "type": "function"
+        }
+      }
+    },
+    "RouteController": {
+      "type": "function",
+      "members": {
+        "extend": {
+          "type": "function"
+        },
+        "events": {
+          "type": "function"
+        },
+        "helpers": {
+          "type": "function"
+        },
+        "prototype": {
+          "type": "object",
+          "members": {
+            "constructor": {
+              "type": "function"
+            },
+            "lookupOption": {
+              "type": "function"
+            },
+            "configureFromUrl": {
+              "type": "function"
+            },
+            "runHooks": {
+              "type": "function"
+            },
+            "getParams": {
+              "type": "function"
+            },
+            "setParams": {
+              "type": "function"
+            },
+            "init": {
+              "type": "function"
+            },
+            "dispatch": {
+              "type": "function"
+            },
+            "layout": {
+              "type": "function"
+            },
+            "render": {
+              "type": "function"
+            },
+            "beginRendering": {
+              "type": "function"
+            },
+            "wait": {
+              "type": "function"
+            },
+            "ready": {
+              "type": "function"
+            }
+          }
+        }
+      }
     }
   },
   "session": {},
