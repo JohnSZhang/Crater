@@ -1,0 +1,16 @@
+<head>
+  <title>Pricess Diaries</title>
+</head>
+<body>
+  <h1>Pretty Priness Diaries</h1>
+  {{#each posts}}
+    {{ >post }}
+  {{ /each }}
+</body>
+
+<template name="post">
+  <h4>{{ title }}</h4>
+  <p>
+    {{ body }}
+  </p>
+</template>
