@@ -3,7 +3,7 @@ if (Meteor.isClient) {
   $(function(){
     console.log(Posts.find().count())
   })
-  Template.body.helpers({
+  Template.posts.helpers({
     posts: function () {
       return Posts.find();
     }

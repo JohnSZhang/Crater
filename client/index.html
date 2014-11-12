@@ -2,15 +2,32 @@
   <title>Pricess Diaries</title>
 </head>
 <body>
-  <h1>Pretty Priness Diaries</h1>
-  {{#each posts}}
-    {{ >post }}
-  {{ /each }}
+  <h1>JOURNAL</h1>
+  <h2>The princess diaries 2</h2>
+  <div id="sidebar">
+    {{>posts}}
+  </div>
 </body>
 
-<template name="post">
-  <h4>{{ title }}</h4>
+<template name="posts">
+  <ul>
+  {{#each posts}}
+  <li class="post">
+    <a href="/posts/{{_id}}">{{ title }}</a>
+  </li>
+  {{ /each }}
+  </ul>
+</template>
+
+<template name="postShow">
+  <div id="everything">
+  <h3>~~~ {{ title }} ~~~</h3>
   <p>
     {{ body }}
   </p>
+  </div>
+</template>
+
+<template name="welcome">
+  <h2>Welcome!</h2>
 </template>
