@@ -3,8 +3,11 @@
 </head>
 <body>
   <h1>JOURNAL</h1>
+  <div class="clear"></div>
+  <div class="title-triangle-1"></div>
+  <div class="title-triangle-2"></div>
   {{#if currentUser}}
-    <p> hello {{ userEmail}} </p>
+    <div class="greeting"> Hello, </div>
   {{/if}}
   {{> loginButtons}}
   <h2>The princess diaries 2</h2>
@@ -20,6 +23,7 @@
     <a href="/posts/{{_id}}">{{ title }}</a>
   </li>
   {{ /each }}
+  <li><button class="new-post">Create New Post</button></li>
   </ul>
 </template>
 
@@ -33,5 +37,18 @@
 </template>
 
 <template name="welcome">
-  <h2>Welcome!</h2>
+  <div id="everything">
+  <h2>This is your Jounral!</h2>
+  </div>
+</template>
+
+<template name="newPost">
+  <div id="everything">
+    <form class="new-post">
+      <h3>~~~ <input type="text" name="post[title]" id="title" placeholder="Title"> ~~~</h3>
+      <textarea name="post[body]" id="body" placeholder="Speak your mind!"></textarea>
+      <button id="new-diary" >Write A New Journal For Your Beautiful Fabulous Day</button>
+    </form>
+    <a class="back" href="/">Go Back To Your Other Beautiful Journal Entries</a>
+  </div>
 </template>
