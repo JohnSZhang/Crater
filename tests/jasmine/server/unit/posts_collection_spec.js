@@ -1,6 +1,6 @@
 "user strict";
 
-describe("Meteor Post Methods", function(){
+describe("Post Methods", function(){
 
    beforeEach(function () {
      MeteorStubs.install();

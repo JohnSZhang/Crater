@@ -2,14 +2,14 @@ THE BESTEST PRETTIEST PRINCESS BLOG THERE IS!
 
 NEED TO ADD
 
-#Add Posts
-#Edit Posts
-#Remove Posts
-#Add up dash purple border.
+#Add Posts DONE ++
+#Edit Posts DONE ++
+#Remove Posts DONE ++
+#Add up dash purple border. DONE ++
 
-#Associate users with posts
+#Associate users with posts DONE ++ (OWNERS)
 
-#Add comments to posts
+#Add comments to posts 
 
 #Add blogs with posts
 
