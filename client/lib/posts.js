@@ -19,4 +19,11 @@ if (Meteor.isClient) {
       })
     }
   });
+
+  Template.postShow.events({
+    "click .post-delete": function (event) {
+      event.preventDefault();
+      PostsService.deletePost(this._id);
+    }
+  })
 }
