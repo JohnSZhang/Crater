@@ -1,0 +1,17 @@
+<template name="postComments">
+  <h4> Comments </h4>
+  <ul class="comments">
+    {{#each comments}}
+    <li class="comment">
+      <p> {{ body }}</p>
+    </li>
+    {{/each}}
+  </ul>
+</template>
+
+<template name="newComment">
+  <label>Add your thought!</label>
+  <form class="new-comment">
+    <input type="text" class="newComment" value="">
+  </form>
+</template>

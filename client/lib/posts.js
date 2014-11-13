@@ -25,11 +25,15 @@ if (Meteor.isClient) {
       event.preventDefault();
       PostsService.deletePost(this._id);
     }
-  });
-
-  Template.postShow.events({
-    "click button.post-edit": function (event) {
+    , "click button.post-edit": function (event) {
       Router.go(Router.current().url + "/edit")
+    }
+    , "submit .new-comment": function (event) {
+      event.preventDefault();
+      var text = $(event.target).find("input").val();
+      CommentsService.createComment(this._id, {
+        body: text
+      })
     }
   });
 
