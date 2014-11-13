@@ -1,0 +1,51 @@
+form.new-post {
+  height: 270px;
+}
+
+form.new-post input[type="text"] {
+  border: 0;
+  box-shadow: 0 0 0.1em #FF8000;
+  border-radius: 10px;
+  font-size: 30px;
+  text-align: center;
+  padding: 3px;
+  background: transparent;
+  color: #FF8000;
+  width: 50%;
+}
+
+form.new-post input[type="text"]:focus {
+  box-shadow: 0 0 0.5em #FF8000;
+  outline: 0;
+}
+
+form.new-post textarea {
+  position: absolute;
+  top: 0;
+  bottom: 30px;
+  left: 0;
+  right: 0;
+  width: 95%;
+  height: 150px;
+  margin: auto;
+  overflow: auto;
+  box-shadow: 0 0 0.1em purple;
+  resize: none;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 5px;
+  color: #ff01a1;
+  margin-bottom: 20px;
+}
+
+form.new-post textarea:focus {
+  box-shadow: 0 0 0.5em purple;
+  outline: 0;
+}
+
+form.new-post button#new-diary {
+  margin: 0;
+  position: absolute;
+  bottom: 15px;
+  left: 2.5%;
+}
