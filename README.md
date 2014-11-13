@@ -5,6 +5,7 @@ NEED TO ADD
 #Add Posts
 #Edit Posts
 #Remove Posts
+#Add up dash purple border.
 
 #Associate users with posts
 
