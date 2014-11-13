@@ -25,5 +25,22 @@ if (Meteor.isClient) {
       event.preventDefault();
       PostsService.deletePost(this._id);
     }
+  });
+
+  Template.postShow.events({
+    "click button.post-edit": function (event) {
+      Router.go(Router.current().url + "/edit")
+    }
+  });
+
+  Template.postEdit.events({
+    "click button#edit-diary": function (event) {
+      event.preventDefault();
+      var data = {
+        title: $("#title").val()
+        , body: $("#body").val()
+      }
+      PostsService.updatePost(this._id, data)
+    }
   })
 }

@@ -75,19 +75,47 @@ describe("Meteor Post Methods", function(){
 
   describe("updatePost", function(){
     it("Should be updateable in both title and body", function(){
+      var docId = 'abc';
+      var data = {
+        title: "new title"
+        , body: "new body"
+      }
+      spyOn(Posts, "findOne").and.returnValue({owner: "1"});
+      spyOn(Meteor, "userId").and.returnValue("1");
+      spyOn(Posts, "update").and.returnValue("1")
 
+      PostsService.updatePost(docId, data);
+
+      expect(Posts.findOne.calls.argsFor(0)).toEqual(["abc"]);
+      expect(Posts.update).toHaveBeenCalledWith("abc", { $set:
+          {
+            title:  "new title"
+            , body: "new body"
+          }
+        }, jasmine.any(Function));
     });
 
     it("Should only be updatable by its owner", function(){
+      var docId = "abc"
+      spyOn(Meteor, "userId").and.returnValue("2");
+      spyOn(Posts, "findOne").and.returnValue({owner: "1"})
+
+      var data = { };
+
+      expect(function () {
+        PostsService.updatePost(docId, data)
+      }).toThrow();
+      expect(Posts.findOne.calls.argsFor(0)).toEqual(['abc']);
 
     });
   })
 
   describe("deletePost", function(){
-    it("Should be detelable", function(){
+    it("Should be deleteable", function(){
       var docId = "abd"
       spyOn(Meteor, "userId").and.returnValue("1");
       spyOn(Posts, "remove").and.returnValue("abc");
+      spyOn(PostsService, "isOwner").and.returnValue(true);
       spyOn(Posts, "findOne").and.returnValue({owner: "1"});
 
       PostsService.deletePost(docId)
@@ -95,7 +123,7 @@ describe("Meteor Post Methods", function(){
       expect(Posts.remove).toHaveBeenCalledWith("abd", jasmine.any(Function));
     });
 
-    it("Should only be detelable by its owner", function(){
+    it("Should only be deleteable by its owner", function(){
       var docId = "abd"
       spyOn(Meteor, "userId").and.returnValue("ebd");
       spyOn(Posts, "findOne").and.returnValue({owner: "abc"});
@@ -107,4 +135,21 @@ describe("Meteor Post Methods", function(){
       expect(Posts.findOne.calls.argsFor(0)).toEqual(["abd"]);
     });
   });
+
+  describe("isOwner", function(){
+    it("Should return false unless logged in", function(){
+      var docId = "abc"
+      spyOn(Meteor, "userId").and.returnValue(null);
+      expect(PostsService.isOwner(docId)).toBeNull();
+    });
+
+    it("Should return true if currentUser is document owner", function(){
+      var docId = "abd"
+      spyOn(Meteor, "userId").and.returnValue("1");
+      spyOn(Posts, "findOne").and.returnValue({owner: "1"});
+
+      expect(PostsService.isOwner(docId)).toBe(true);
+      expect(Posts.findOne.calls.argsFor(0)).toEqual(["abd"])
+    });
+  })
 });
