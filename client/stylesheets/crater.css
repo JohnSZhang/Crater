@@ -139,3 +139,14 @@ a.back {
   color: #eedd9a;
   border-radius: 6px;
 }
+
+button.post-edit {
+  float: left;
+  font-size: 15px;
+}
+
+button.post-delete {
+  float: right;
+  font-size: 15px;
+  background: rgb(255,50,100)
+}
