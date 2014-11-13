@@ -20,5 +20,5 @@ if (Meteor.isClient) {
     "click button.new-post": function (event) {
       Router.go("/posts/new")
     }
-  })
+  });
 }
