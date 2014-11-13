@@ -24,10 +24,6 @@ describe("Meteor Post Methods", function(){
           , createdAt: "test date"
           , updatedAt: "test date"
       };
-      Date = function () {
-        return "absc"
-      }
-      var testDate = new Date()
 
       PostsService.createPost(options);
 
@@ -38,8 +34,8 @@ describe("Meteor Post Methods", function(){
             , body: "test body"
             , createdAt: "test date"
             , updatedAt: "test date"
-      // Need to figure out server side date object.
-      });
+      // Need to figure out server side Date Creation (package?).
+    }, jasmine.any(Function));
     });
 
     it("Should throw an error unless user is loggedin", function(){
