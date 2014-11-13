@@ -75,7 +75,7 @@ describe("Meteor Post Methods", function(){
 
   describe("updatePost", function(){
     it("Should be updateable in both title and body", function(){
-
+      
     });
 
     it("Should only be updatable by its owner", function(){
@@ -84,13 +84,27 @@ describe("Meteor Post Methods", function(){
   })
 
   describe("deletePost", function(){
-    it("Should only be detelable", function(){
+    it("Should be detelable", function(){
+      var docId = "abd"
+      spyOn(Meteor, "userId").and.returnValue("1");
+      spyOn(Posts, "remove").and.returnValue("abc");
+      spyOn(Posts, "find").and.returnValue({owner: "1"});
 
+      PostsService.deletePost(docId)
+
+      expect(Posts.remove).toHaveBeenCalledWith("abd", jasmine.any(Function));
     });
 
     it("Should only be detelable by its owner", function(){
+      var docId = "abd"
+      spyOn(Meteor, "userId").and.returnValue("ebd");
+      spyOn(Posts, "find").and.returnValue({owner: "abc"});
 
+      expect(function () {
+        PostsService.deletePost(docId);
+      }).toThrow();
+
+      expect(Posts.find.calls.argsFor(0)).toEqual(["abd"]);
     });
   });
-
 });
