@@ -47,6 +47,7 @@ describe("Post Comment Methods", function(){
 
       spyOn(Meteor, "userId").and.returnValue("user id");
       spyOn(Posts, "find").and.returnValue("user id");
+      spyOn(Posts, "update").and.returnValue("1");
 
       CommentsService.deleteComment(docId, data);
 
