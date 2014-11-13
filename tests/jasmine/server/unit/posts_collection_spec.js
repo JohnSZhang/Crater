@@ -22,7 +22,6 @@ describe("Meteor Post Methods", function(){
           title: "test title"
           , body: "test body"
           , createdAt: "test date"
-          , updatedAt: "test date"
       };
 
       PostsService.createPost(options);
@@ -33,7 +32,6 @@ describe("Meteor Post Methods", function(){
             , title: "test title"
             , body: "test body"
             , createdAt: "test date"
-            , updatedAt: "test date"
       // Need to figure out server side Date Creation (package?).
     }, jasmine.any(Function));
     });
@@ -68,8 +66,14 @@ describe("Meteor Post Methods", function(){
   });
 
   describe("getPosts", function(){
-    it("Should list posts by reverse creation date when fethced", function(){
-
+    it("Should list posts by reverse creation date when fethced and limit to 5",
+    function(){
+      spyOn(Posts, "find").and.returnValue({});
+      PostsService.getPosts();
+      expect(Posts.find.calls.argsFor(0)).toEqual([{}, {
+          sort: {createdAt: -1}
+          , limit: 5
+      }]);
     });
   });
 

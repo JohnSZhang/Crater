@@ -2,7 +2,7 @@ if (Meteor.isClient) {
   // This code only runs on the client
   Template.posts.helpers({
     posts: function () {
-      return Posts.find();
+      return PostsService.getPosts();
     }
   });
 
