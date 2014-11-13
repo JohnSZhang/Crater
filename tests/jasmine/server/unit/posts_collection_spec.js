@@ -6,6 +6,8 @@ describe("Meteor Post Methods", function(){
      MeteorStubs.install();
      mock(global, 'Posts');
      mock(global, 'Meteor');
+     mock(global, 'Date');
+
    });
 
   afterEach(function () {
@@ -14,13 +16,18 @@ describe("Meteor Post Methods", function(){
 
   describe("createPost", function(){
     it("Should be created with a title and a body", function(){
-
       spyOn(Meteor, "userId").and.returnValue("userId");
       spyOn(Posts, "insert").and.returnValue("testId")
       var options = {
           title: "test title"
           , body: "test body"
+          , createdAt: "test date"
+          , updatedAt: "test date"
       };
+      Date = function () {
+        return "absc"
+      }
+      var testDate = new Date()
 
       PostsService.createPost(options);
 
@@ -29,6 +36,9 @@ describe("Meteor Post Methods", function(){
             owner: "userId"
             , title: "test title"
             , body: "test body"
+            , createdAt: "test date"
+            , updatedAt: "test date"
+      // Need to figure out server side date object.
       });
     });
 
@@ -43,7 +53,7 @@ describe("Meteor Post Methods", function(){
       expect(function () {
         PostsService.createPost(options)
       }).toThrow();
-      
+
     });
 
     it("Does not allow for empty title", function(){
