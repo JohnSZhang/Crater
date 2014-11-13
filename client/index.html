@@ -36,7 +36,16 @@
   </p>
   <button class="post-edit">Edit your beautiful post</button>
   <button class="post-delete">Delete your beautiful post</button>
-  <div class="clear"></div>
+  </div>
+</template>
+
+<template name="postEdit">
+  <div id="everything">
+    <form class="edit-post">
+      <h3>~~~ <input type="text" name="post[title]" id="title" value="{{title}}"> ~~~</h3>
+      <textarea name="post[body]" id="body">{{body}}</textarea>
+      <button id="edit-diary" >Edit Your Journal For Your Beautiful Fabulous Day</button>
+    </form>
   </div>
 </template>
 

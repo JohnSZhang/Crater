@@ -1,8 +1,8 @@
-form.new-post {
+form.new-post, form.edit-post {
   height: 270px;
 }
 
-form.new-post input[type="text"] {
+form.new-post input[type="text"], form.edit-post input[type="text"] {
   border: 0;
   box-shadow: 0 0 0.1em #FF8000;
   border-radius: 10px;
@@ -14,12 +14,12 @@ form.new-post input[type="text"] {
   width: 50%;
 }
 
-form.new-post input[type="text"]:focus {
+form.new-post input[type="text"]:focus, form.edit-post input[type="text"]:focus {
   box-shadow: 0 0 0.5em #FF8000;
   outline: 0;
 }
 
-form.new-post textarea {
+form.new-post textarea, form.edit-post textarea {
   position: absolute;
   top: 0;
   bottom: 30px;
@@ -38,12 +38,12 @@ form.new-post textarea {
   margin-bottom: 20px;
 }
 
-form.new-post textarea:focus {
+form.new-post textarea:focus, form.edit-post textarea:focus {
   box-shadow: 0 0 0.5em purple;
   outline: 0;
 }
 
-form.new-post button#new-diary {
+form.new-post button#new-diary, form.edit-post button#edit-diary {
   margin: 0;
   position: absolute;
   bottom: 15px;

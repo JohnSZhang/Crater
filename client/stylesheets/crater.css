@@ -127,6 +127,7 @@ a.new {
 
 p {
   color: #ff22dd;
+  margin-bottom: 30px;
 }
 
 a.back {
@@ -141,12 +142,16 @@ a.back {
 }
 
 button.post-edit {
-  float: left;
+  position: absolute;
+  left: 20px;
+  bottom: 15px;
   font-size: 15px;
 }
 
 button.post-delete {
-  float: right;
+  position: absolute;
+  right: 10px;
+  bottom: 15px;
   font-size: 15px;
   background: rgb(255,50,100)
 }
