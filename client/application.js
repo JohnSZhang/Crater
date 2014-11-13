@@ -11,4 +11,10 @@ if (Meteor.isClient) {
       Router.go("/posts/new")
     }
   });
+
+  Template.postShow.events({
+    "click button.post-edit": function (event) {
+      Router.go(Router.current().url + "/edit")
+    }
+  })
 }
