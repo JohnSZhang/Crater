@@ -20,6 +20,14 @@ if (Meteor.isClient) {
     }
   });
 
+  Template.postShow.helpers({
+    comments: function () {
+      return Comments.find({
+        "post": this._id
+      })
+    }
+  });
+
   Template.postShow.events({
     "click .post-delete": function (event) {
       event.preventDefault();
@@ -29,6 +37,7 @@ if (Meteor.isClient) {
       Router.go(Router.current().url + "/edit")
     }
     , "submit .new-comment": function (event) {
+      console.log('posting comment')
       event.preventDefault();
       var text = $(event.target).find("input").val();
       CommentsService.createComment(this._id, {
