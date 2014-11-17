@@ -197,3 +197,37 @@ div.comments-section ul li button {
   float: none;
   background: rgb(255,50,100);
 }
+
+div.new-comments-section {
+  border: 10px solid #bb44aa;
+  background-color: rgba(255,255,255,0.9);
+  padding: 20px;
+  margin-left: 500px;
+  margin-right: 50px;
+  margin-top: 20px;
+  border-radius: 20px;
+  position: relative;
+  min-width: 600px;
+  margin-bottom: 100px;
+}
+
+div.new-comments-section * {
+  opacity: 1;
+}
+
+div.new-comments-section input {
+  border: 0;
+  box-shadow: 0 0 0.1em #ff01a1;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 5px;
+  background: transparent;
+  color: #ff01a1;
+  width: 97%;
+  margin-top: 10px;
+}
+
+div.new-comments-section input:focus {
+  box-shadow: 0 0 0.5em #ff01a1;
+  outline: 0;
+}
