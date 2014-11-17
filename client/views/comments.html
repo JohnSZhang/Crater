@@ -1,18 +1,23 @@
 <template name="postComments">
-  <h4> Comments </h4>
-  <ul class="comments">
-    {{#each comments}}
-    <li class="comment">
-      <p>{{ body }}</p>
-    </li>
-    <a class="delete-comment" href="#">Delete Comment</a>
-    {{/each}}
-  </ul>
+  <div class="comments-section">
+    <h4> Comments </h4>
+    <ul class="comments">
+      {{#each comments}}
+      <li class="comment">
+        <p>{{ body }}</p>
+        <button class="delete-comment" href="#">Delete Comment</button>
+      </li>
+      {{/each}}
+    </ul>
+    <div class="clear"></div>
+  </div>
 </template>
 
 <template name="newComment">
-  <label>Add your thought!</label>
-  <form class="new-comment">
-    <input type="text" class="newComment" value="">
-  </form>
+  <div class="new-comments-section">
+    <label>Add your thought!</label>
+    <form class="new-comment">
+      <input type="text" class="newComment" value="">
+    </form>
+  </div>
 </template>

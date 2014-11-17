@@ -153,5 +153,47 @@ button.post-delete {
   right: 10px;
   bottom: 15px;
   font-size: 15px;
-  background: rgb(255,50,100)
+  background: rgb(255,50,100);
+}
+
+div.comments-section {
+  border: 10px solid #bb44aa;
+  background-color: rgba(255,255,255,0.9);
+  padding: 20px;
+  margin-left: 500px;
+  margin-right: 50px;
+  margin-top: 20px;
+  border-radius: 20px;
+  position: relative;
+  min-width: 600px;
+}
+
+div.comments-section * {
+  opacity: 1;
+}
+
+div.comments-section h4 {
+  font-size: 30px;
+  margin: 0;
+  padding-bottom: 10px;
+}
+
+div.comments-section ul {
+  margin: 0;
+}
+
+div.comments-section ul li {
+  border: 5px solid pink;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+div.comments-section ul li p {
+  padding: 5px;
+  margin: 0;
+}
+
+div.comments-section ul li button {
+  float: none;
+  background: rgb(255,50,100);
 }
